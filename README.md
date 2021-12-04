@@ -1,4 +1,4 @@
-# keep_alive-discord
+# keep_alive-discord python
 Keep_alive Discord
 
 
