@@ -22,5 +22,5 @@ def keep_alive():
 
 
 add code replit:
-python3 -m poetry init --no-interaction\n
+python3 -m poetry init --no-interaction
 python3 -m poetry add discord
