@@ -17,3 +17,10 @@ def run():
 def keep_alive():
     t = Thread(target=run)
     t.start()
+
+
+
+
+add code replit:
+python3 -m poetry init --no-interaction
+python3 -m poetry add discord
